@@ -1,0 +1,150 @@
+\q
+[A
+dsa
+exit
+\q
+echo h
+history
+\e $HOME
+\e $PATH
+history
+ls
+cat history
+cat history.txt
+cat README.md
+list_binaries
+pwd
+> touch testfile.txt
+touch testfile.txt
+rm testfile.txt
+> ls -l
+ls -l
+uname -a
+\e $PATH
+ \e $INVALID_VAR
+ fakecommand
+ps aux
+ps aux myshell
+ps aux | grep myshell
+ps aux | grep myshell
+ps aux | grep ./myshell
+\l sda
+\l sdb
+\l sdc
+lsblk
+\l sr0
+\l sr0
+\l sr0
+\l sda
+\cron
+\cron
+\cron
+ls /tmp/vfs
+cat /tmp/vfs/tasks
+ls
+\mem 745
+\mem 2637
+\mem 10118
+exit
+\q
+echo h
+[A
+\cron
+ls
+grd
+\e $PATH
+\mem 10348
+\mem 10348
+echo h
+\q
+exit
+\e $PATH
+\e $HOME
+\croc
+\cron
+ls
+\cron
+\mem 14671
+\mem 2669
+\e $PATH
+echo h
+helfw
+exit
+\q
+\cron
+ls tasks
+ls
+cd
+cd
+ls
+\e $PATH
+ls
+cd
+pwd
+..
+sud ..
+sudo ..
+pwd
+\e $PATH
+cd
+pwd
+ls
+зштп
+ping
+\e $PATH
+\e $HOME
+ls
+pwd
+cat history.txt
+ls
+echo h
+\q
+exit
+\cron
+\l sda
+\l sr0
+cat /tmp/vfs/tasks
+\l sda
+\l sdb
+echo h
+\mem 2655
+\mem 2655
+exit
+\q
+history
+ls
+pwd
+cat history
+cat history.txt
+\e $PATH
+fwewrtef
+\l sda
+\l sr0
+\cron
+\mem 580
+cat memory_dump_580.txt
+\mem 14475
+cat memory_dump_14475.txt
+fwfw
+exit
+\q
+echo h
+\cron
+cat /tmp/vfs/tasks
+> cat /tmp/vfs/tasks
+cat /tmp/vfs/tasks
+at /tmp/vfs/tasks
+acat /tmp/vfs/tasks
+cat /tmp/vfs/tasks
+ls /tmp/vfs
+\mem 3636
+cat memory_dump_3636.txt
+[?61;1;21;22c[?61;1;21;22c[?61;1;21;22c[?61;1;21;22c[?61;1;21;22cls
+cd
+pwd
+ls
+\e $PATH
+ls
+\cron
+ls /tmp/vfs
+cat /tmp/vfs/tasks
