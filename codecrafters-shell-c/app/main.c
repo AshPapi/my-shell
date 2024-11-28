@@ -238,6 +238,7 @@ void print_env_variable(char *arg) {
         if (value) {
             printf("%s\n", value);
         } else {
+            //ашот крутой
             printf("Переменная окружения %s не найдена.\n", var_name);
         }
     } else {
