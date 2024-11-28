@@ -102,14 +102,14 @@ gcc main.c -o myshell -D_FILE_OFFSET_BITS=64 -lfuse
    > \cron
    VFS успешно смонтирован в /tmp/vfs. Список задач cron доступен.
    > cat /tmp/vfs/tasks
-   * * * * * /home/user/backup.sh
+   > 
    ```
 
 ## Требования
 
 - **FUSE**: Убедитесь, что FUSE установлен в системе. Вы можете установить его с помощью:
   ```bash
-  sudo apt install fuse
+  sudo apt install libfuse-dev
   ```
 
 - **Права суперпользователя**: Для некоторых команд, таких как монтирование VFS и отправка сигнала SIGHUP, требуются права суперпользователя.
