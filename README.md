@@ -66,6 +66,7 @@ gcc main.c -o myshell -D_FILE_OFFSET_BITS=64 -lfuse
     ```
     > \cron
     > cat /tmp/vfs/tasks
+    > ничего, т.к. список задач по умолчанию пуст, можно проверить через crontab -l
     ```
 
 - **Получение дампа памяти процесса**
